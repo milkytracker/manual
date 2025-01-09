@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # [MilkyTracker.html](MilkyTracker.html)
 The one true source of the [MilkyTracker user manual](MilkyTracker.html).
 
